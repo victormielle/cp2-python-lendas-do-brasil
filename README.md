@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/32877102/README.md)
 # Lendas do Brasil: RPG de Turnos com POO
 
 **CP2 - Python | Programação Orientada a Objetos**
