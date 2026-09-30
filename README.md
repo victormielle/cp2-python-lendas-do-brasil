@@ -10,11 +10,11 @@ Criaturas do folclore brasileiro invadiram a vila! Neste mini-RPG de terminal, h
 
 | Nome | RM |
 |------|----|
-| Luiz Henrique de Paiva Alves Pinto | RM 572177 |
-| Victor Hugo Mielle Bernardes da Silva | RM 571138 |
 | Matheus Guerra dos Santos | RM 572694 |
 | Matheus Rodrigue de Carvalho Pedro | RM 571106 |
+| Luiz Henrique de Paiva Alves Pinto | RM 572177 |
 | Thomas Ribeiro de Holanda | RM 570446 |
+| Victor Hugo Mielle Bernardes da Silva | RM 571138 |
 
 ## Como executar
 
