@@ -1,6 +1,9 @@
+[README.md](https://github.com/user-attachments/files/32877102/README.md)
 # Lendas do Brasil: RPG de Turnos com POO
 
 **CP2 - Python | Programação Orientada a Objetos**
+
+**Repositório:** https://github.com/victormielle/cp2-python-lendas-do-brasil
 
 Criaturas do folclore brasileiro invadiram a vila! Neste mini-RPG de terminal, heróis (Guerreiro, Mago, Arqueiro e Paladino) enfrentam o Lobisomem, o Boitatá, o Curupira, a Mula sem Cabeça e o Saci em batalhas por turnos 1v1 e 3v3. Cada combatente tem um conjunto próprio de ataques, com custo de mana e efeitos como atordoamento e veneno. O projeto aplica os conceitos de POO vistos em aula: classes, objetos, atributos, métodos, herança, polimorfismo, encapsulamento, métodos especiais, método estático, composição e cópia de objetos.
 
@@ -10,14 +13,17 @@ Criaturas do folclore brasileiro invadiram a vila! Neste mini-RPG de terminal, h
 |------|----|
 | Luiz Henrique de Paiva Alves Pinto | RM 572177 |
 | Victor Hugo Mielle Bernardes da Silva | RM 571138 |
+| Matheus Guerra dos Santos | RM 572694 |
+| Matheus Rodrigue de Carvalho Pedro | RM 571106 |
+| Thomas Ribeiro de Holanda | RM 570446 |
 
 ## Como executar
 
 Requer apenas Python 3.8+ (sem bibliotecas externas).
 
 ```bash
-git clone https://github.com/<usuario>/<repositorio>.git
-cd <repositorio>
+git clone https://github.com/victormielle/cp2-python-lendas-do-brasil.git
+cd cp2-python-lendas-do-brasil
 python main.py
 ```
 
